@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: AI & Computer System Conference Deadlines
+description: Countdowns to top ML/AI/System/CV/NLP conference deadlines
+author: Machine Learning Systems Lab
 
-domain: "aideadlin.es"
+domain: "mlsys-seo.github.io/conference-deadlines/"
 baseurl: ""
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: mlsys-seo
+github_repo: conference-deadlines
 
 markdown: kramdown
 ga_id:
